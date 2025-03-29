@@ -16,6 +16,9 @@ https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p
 4. Вибрати інтерпретатор Python у VS Code (Ctrl + Shift + P → Python: Select Interpreter).
 5. Запускати код прямо в терміналі (python ім'я_файлу.py).
 
+Як відкрити командний рядок у Windows: Натисни Win + R, введи cmd, натисни Enter.
+
+Як перевірити, що Python встановлено правильно: python --version
 
 
 
