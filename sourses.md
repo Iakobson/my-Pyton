@@ -8,6 +8,14 @@ https://www.py4e.com/
 
 https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p
 
+#### Python + VS Code
+Щоб налаштувати Python у VS Code, потрібно:
+1. Встановити Python із офіційного сайту.
+2. Встановити розширення Python у VS Code.
+   + Знайди розширення від Microsoft (воно має понад 100 млн завантажень).
+4. Вибрати інтерпретатор Python у VS Code (Ctrl + Shift + P → Python: Select Interpreter).
+5. Запускати код прямо в терміналі (python ім'я_файлу.py).
+
 
 
 
