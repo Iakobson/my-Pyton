@@ -20,7 +20,8 @@ https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p
 
 Як перевірити, що Python встановлено правильно: python --version
 
-
+Ви можете ознайомитися з вихідним кодом інтерпретатора Python за посиланням www.python.org.
+> Отже, Python – це програма, яка компілюється у машинний код.
 
 
 
