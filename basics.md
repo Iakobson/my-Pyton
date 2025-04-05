@@ -1,12 +1,14 @@
 
-### зарезервовані слова
+### зарезервовані 33 слова
 
 ``` pyton
-  class return is finally lambda
-  continue def from while nonlocal
-  and del global not with
-  as elif try or yield as elif
-  assert else import break except rause
+  and del from None True
+  as elif global nonlocal try
+  assert else if not while
+  break except import or with
+  class False in pass yield
+  continue finally is raise
+  def for lambda return
 ```
 
 Правильно попрощатися з Python можна за допомогою команди
